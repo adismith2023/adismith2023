@@ -11,6 +11,7 @@
 - <b>C++ Assignment Programs: </b>
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
+  - [How much paint](https://github.com/adismith2023/How-much-paint)
 
 <h2>📺 Popular YouTube Videos</h2>
 
