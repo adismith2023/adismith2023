@@ -6,10 +6,10 @@
 <h2>👨‍💻 What I am doing:</h2>
 <h2>👨‍💻 Skillset:</h2>
 <h2>👨‍💻 Hobby:</h2>
-<h2>👨‍💻 Recent projects completed:</h2>
+<h2>👨‍💻 Recent Projects completed:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>C++ Assignment Programs: </b>
+  - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
 
 
 <h2>📺 Popular YouTube Videos</h2>
