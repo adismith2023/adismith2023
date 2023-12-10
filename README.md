@@ -12,16 +12,17 @@ Hello, I'm Adrian Smith, a highly motivated individual with a passion for techno
 I'm currently a student at the University of South Wales, where I am building a strong foundation in computer science and software development. My coursework includes a variety of programming languages, with a focus on C++ and C#. I am also gaining valuable experience in web and application programming, honing my troubleshooting and diagnostic skills along the way.
 </p>
 <h2>🤹🏽 Skillset:</h2>
-<p>
-Excellent customer service and communication skills
-Strong problem-solving abilities for both hardware and software issues
-Proficient in C# and Java
-Experience in web and application programming
-Detail-oriented with excellent time management skills
-Motivated team player with a track record of meeting tight deadlines
-Reach Truck and Forklift Operator with experience in logistics and stock management
-Comp TIA IT Certificate holder
-</p>
+<ul>
+  <li>🛠️ Excellent customer service and communication skills</li>
+  <li>💡 Strong problem-solving abilities for both hardware and software issues</li>
+  <li>💻 Proficient in C# and Java</li>
+  <li>🌐 Experience in web and application programming</li>
+  <li>🕰️ Detail-oriented with excellent time management skills</li>
+  <li>🤝 Motivated team player with a track record of meeting tight deadlines</li>
+  <li>🚚 Reach Truck and Forklift Operator with experience in logistics and stock management</li>
+  <li>🎓 BTEC National Extended Diploma in IT with Sofware Development Graded D*DD</li>
+  <li>🎓 Comp TIA IT Certificate holder</li>
+</ul>
 <h2>🎱 Hobby:</h2>
 <p>
 Beyond my academic and professional pursuits, I am an avid researcher and technology enthusiast. I enjoy staying updated on the latest advancements in technology, and my interests extend to space and physics.
