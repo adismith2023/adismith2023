@@ -13,6 +13,7 @@
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
   - [How much paint](https://github.com/adismith2023/How-much-paint)
   - [World Population](https://github.com/adismith2023/World-Population)
+  - [Letter Shape](https://github.com/adismith2023/Letter-Shape)
 
 <h2>📺 Popular YouTube Videos</h2>
 
