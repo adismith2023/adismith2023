@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Adrian! </h1>
+<h1>Hello, I'm Adrian! </h1>
 
 <h2>👨‍💻 About me:</h2>
 <h2>👨‍💻 What I am doing:</h2>
