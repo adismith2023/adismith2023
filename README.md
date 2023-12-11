@@ -51,7 +51,6 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 
 [twitter]: https://twitter.com/adismith2023
 [youtube]:https://youtube.com/@adriansmith5241
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]:https://linkedin.com/in/adrian-smith-75056a258
 
 
