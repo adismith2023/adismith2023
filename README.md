@@ -31,6 +31,10 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 </p>
 <h2>💻 Recent Projects completed:</h2>
 
+ - <b>ShinyR Apps: </b>
+   - [Spotify Data Dashboard](https://adi2023.shinyapps.io/Spotify)
+
+ 
 - <b>C++ Assignment Programs: </b>
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
