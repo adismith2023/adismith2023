@@ -43,11 +43,6 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 
   - [Pokémon Card Text Based Game](https://github.com/adismith2023/PokemonCardBattle/blob/master/README.md)
   - [Hamurabi Text Based Game](https://github.com/adismith2023/Hamurabi/blob/master/README.md)
-  - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
-  - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
-  - [How much paint](https://github.com/adismith2023/How-much-paint)
-  - [World Population](https://github.com/adismith2023/World-Population)
-  - [Letter Shape](https://github.com/adismith2023/Letter-Shape)
 
 <h3>💻 Year 2</h3>
 
