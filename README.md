@@ -41,6 +41,7 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
  
 - <b>Programming C++ (2023/24)</b>
 
+  - [Pokémon Card Text Based Game](https://github.com/adismith2023/PokemonCardBattle/blob/master/README.md)
   - [Hamurabi Text Based Game](https://github.com/adismith2023/Hamurabi/blob/master/README.md)
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
