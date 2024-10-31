@@ -32,11 +32,11 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 <h2>💻 Univercity Projects completed</h2>
 <h3>💻 Year 1</h3>
 
- - <b>Professionalism Employability Enterprise & Problem-Solving (2023/24)</b>
+ - <b>Professionalism Employability Enterprise & Problem-Solving Shiny R(2023/24)</b>
    - [Spotify Data Dashboard](https://adi2023.shinyapps.io/Spotify)
 
  
-- <b>Programming (2023/24)</b>
+- <b>Programming C++ (2023/24)</b>
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
   - [How much paint](https://github.com/adismith2023/How-much-paint)
@@ -45,7 +45,7 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 
 <h3>💻 Year 2</h3>
 
-- <b>Event Driven And Graphical User Interface Programming (2024/25)</b>
+- <b>Event Driven And Graphical User Interface Programming C# (2024/25)</b>
   - [C# Coffee Vending Machiene](https://github.com/adismith2023/Coffee-Vending-Machine-Redesign)
 
 <h2> 🤝 Connect with me:</h2>
