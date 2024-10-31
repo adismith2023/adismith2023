@@ -29,18 +29,24 @@ Beyond my academic and professional pursuits, I am an avid researcher and techno
 
 Feel free to explore my GitHub repositories to get a glimpse of my coding journey. I'm always open to collaboration and learning opportunities. Let's connect and create something amazing together!
 </p>
-<h2>💻 Recent Projects completed:</h2>
+<h2>💻 Univercity Projects completed</h2>
+<h3>💻 Year 1</h3>
 
- - <b>ShinyR Apps: </b>
+ - <b>Professionalism Employability Enterprise & Problem-Solving (2023/24)</b>
    - [Spotify Data Dashboard](https://adi2023.shinyapps.io/Spotify)
 
  
-- <b>C++ Assignment Programs: </b>
+- <b>Programming (2023/24)</b>
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
   - [How much paint](https://github.com/adismith2023/How-much-paint)
   - [World Population](https://github.com/adismith2023/World-Population)
   - [Letter Shape](https://github.com/adismith2023/Letter-Shape)
+
+<h3>💻 Year 2</h3>
+
+- <b>Event Driven And Graphical User Interface Programming (2024/25)</b>
+  - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
 
 <h2> 🤝 Connect with me:</h2>
 
@@ -51,5 +57,4 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 [twitter]: https://twitter.com/adismith2023
 [youtube]:https://youtube.com/@adriansmith5241
 [linkedin]:https://linkedin.com/in/adrian-smith-75056a258
-
 
