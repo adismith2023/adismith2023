@@ -20,7 +20,7 @@ I'm currently a student at the University of South Wales, where I am building a 
   <li>🕰️ Detail-oriented with excellent time management skills</li>
   <li>🤝 Motivated team player with a track record of meeting tight deadlines</li>
   <li>🚚 Reach Truck and Forklift Operator with experience in logistics and stock management</li>
-  <li>🎓 BTEC National Extended Diploma in IT with Sofware Development Graded D*DD</li>
+  <li>🎓 BTEC National Extended Diploma in IT with Sofware Development Graded D*D*D</li>
   <li>🎓 Comp TIA IT Certificate holder</li>
 </ul>
 <h2>🎱 Hobby:</h2>
