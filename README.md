@@ -24,8 +24,12 @@ I'm currently a student at the University of South Wales, where I am building a 
   <li>🎓 Comp TIA IT Certificate holder</li>
 </ul>
 <h2>🎱 Hobby:</h2>
+- <b>Games Programming</b>
+
+- [Neon Flux a Geomatry Wars Inspired Game](https://simmer.io/@adi933/neonflux7)
 <p>
-Beyond my academic and professional pursuits, I am an avid researcher and technology enthusiast. I enjoy staying updated on the latest advancements in technology, and my interests extend to space and physics.
+Beyond my academic and professional pursuits, I am an avid researcher and technology enthusiast. I enjoy staying updated on the latest advancements in technology, and my interests extend to space and physics. I also program games in my own time, some hobby projects I have worked on are linked above.
+
 
 Feel free to explore my GitHub repositories to get a glimpse of my coding journey. I'm always open to collaboration and learning opportunities. Let's connect and create something amazing together!
 </p>
@@ -34,7 +38,6 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 
  - <b>Professionalism Employability Enterprise & Problem-Solving Shiny R(2023/24)</b>
    - [Spotify Data Dashboard](https://adi2023.shinyapps.io/Spotify)
-
  
 - <b>Programming C++ (2023/24)</b>
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
