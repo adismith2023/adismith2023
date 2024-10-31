@@ -40,6 +40,8 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
    - [Spotify Data Dashboard](https://adi2023.shinyapps.io/Spotify)
  
 - <b>Programming C++ (2023/24)</b>
+
+  - [Hamurabi Text Based Game](https://github.com/adismith2023/Hamurabi/blob/master/README.md)
   - [Height in Meters](https://github.com/adismith2023/Height-in-Meters)
   - [Annual Temperatures](https://github.com/adismith2023/Annual-High-Temperatures)
   - [How much paint](https://github.com/adismith2023/How-much-paint)
