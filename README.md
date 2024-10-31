@@ -27,6 +27,7 @@ I'm currently a student at the University of South Wales, where I am building a 
 - <b>Games Programming</b>
 
 - [Neon Flux a Geomatry Wars Inspired Game Programmed in C# Unity Engine](https://simmer.io/@adi933/neonflux7)
+- [Brick Breaker Game in C++](https://simmer.io/@adi933/neonflux7)
 <p>
 Beyond my academic and professional pursuits, I am an avid researcher and technology enthusiast. I enjoy staying updated on the latest advancements in technology, and my interests extend to space and physics. I also program games in my own time, some hobby projects I have worked on are linked above.
 
