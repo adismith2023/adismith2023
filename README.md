@@ -48,7 +48,9 @@ Feel free to explore my GitHub repositories to get a glimpse of my coding journe
 <h3>💻 Year 2</h3>
 
 - <b>Event Driven And Graphical User Interface Programming C# (2024/25)</b>
-  - [C# Coffee Vending Machiene](https://github.com/adismith2023/Coffee-Vending-Machine-Redesign)
+  - [Coffee Vending Machiene](https://github.com/adismith2023/Coffee-Vending-Machine-Redesign)
+  - [Flight Simulator](https://github.com/adismith2023/FlightSimulator/tree/master)
+ 
 
 <h2> 🤝 Connect with me:</h2>
 
